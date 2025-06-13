@@ -35,7 +35,7 @@
         <details><summary><strong>Reciclar</strong></summary><p>Transformar los residuos en nuevos productos.</p></details>
       </div>
       <br><br>
-      <img src="https://cdn-icons-png.flaticon.com/512/249/249703.png" width="300" height="200" alt="Comunidad">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbHwni5uvun646wg2twM7wl1Uz_ablSD8crA&s=" width="300" height="200" alt="Comunidad">
       <h2 style="font-size: 26px;">Comparación de las 7 R’s</h2>
       <div style="display: flex; justify-content: center;">
         <table border="1" style="font-size: 16px; background-color: #f1f8e9;">
