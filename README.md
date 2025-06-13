@@ -12,7 +12,7 @@
       <p style="font-size: 18px;">
         Aquí aprenderás sobre el reciclaje y cómo aplicarlo en tu vida diaria.
       </p>
-      <img src="https://cdn-icons-png.flaticon.com/512/2301/2301127.png" width="300" height="200" alt="Ciudad">
+      <img src="https://fundacionpanama.org/wp-content/uploads/2020/09/fundacion-panama.jpg" width="300" height="200" alt="Ciudad">
       <h2 style="font-size: 28px;">¿Por qué cuidar el medio ambiente?</h2>
       <p style="font-size: 18px;">
         Porque el planeta nos da todo: aire, agua y vida. Es nuestra responsabilidad protegerlo.
