@@ -17,7 +17,7 @@
       <p style="font-size: 18px;">
         Porque el planeta nos da todo: aire, agua y vida. Es nuestra responsabilidad protegerlo.
       </p>
-      <img src="https://cdn-icons-png.flaticon.com/512/4329/4329442.png" width="300" height="200" alt="Naturaleza">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRds8rb11WEbEfGofmPCwusNQyMmBkkv1WaAhqL3ycP_A&s=" width="300" height="200" alt="Naturaleza">
       <h2 style="font-size: 28px;">Las 7 R’s del reciclaje</h2>
       <div style="margin-bottom: 20px;">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/OasbYWF4_S8" frameborder="0" allowfullscreen></iframe>
