@@ -63,11 +63,6 @@
     <h2>Las 7 R’s del reciclaje</h2>
     <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/OasbYWF4_S8" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="imagen-rs">
-      <img src="https://www.bbva.com/wp-content/uploads/2021/04/BBVA-reciclado-botellas-plastico-sostenibilidad-apertura.jpg" alt="Reutilizar botellas">
-      <p>1. Reutilizar: dar un nuevo uso a productos como botellas plásticas.</p>
-    </div>
     <p style="font-family: Tahoma; font-size: 17px;">
       Estas son acciones que ayudan al planeta y reducen la basura.
     </p>
