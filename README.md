@@ -86,7 +86,7 @@
       <button onclick="window.open('https://www.ecologiaverde.com/las-7-r-del-reciclaje/', '_blank')" style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 10px; background-color: green; color: white; border: none;">
         Leer sobre las 7 R's
       </button>
-      <button onclick="window.open('https://www.nationalgeographic.com.es/medio-ambiente/que-es-reciclaje-y-por-que-es-importante_17690', '_blank')" style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 10px; background-color: darkblue; color: white; border: none;">
+      <button onclick="window.open('https://414ng.github.io/Alan/', '_blank')" style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 10px; background-color: darkblue; color: white; border: none;">
         ¿Por qué reciclar? (National Geographic)
       </button>
     </div>
