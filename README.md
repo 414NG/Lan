@@ -87,7 +87,7 @@
         Leer sobre las 7 R's
       </button>
       <button onclick="window.open('https://414ng.github.io/Alan/', '_blank')" style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 10px; background-color: darkblue; color: white; border: none;">
-        ¿Por qué reciclar? (National Geographic)
+        ¿Por qué reciclar? (AGS)
       </button>
     </div>
   </body>
