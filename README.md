@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mi comunidad: Ciudad Serdán</title>
+  <title>Mi comunidad: Ciudad Serdá</title>
   <style>
     body {
       background-color: lightblue;
