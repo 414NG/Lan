@@ -54,7 +54,7 @@
     <p style="font-size: 18px; font-family: Georgia;">
       Aquí aprenderás sobre el reciclaje y cómo aplicarlo en tu vida diaria.
     </p>
-    <img src="https://fundacionpanama.org/wp-content/uploads/2020/09/fundacion-panama.jpg" width="300" alt="Ciudad Serdán" />
+    <img src="https://fundacionpanama.org/wp-content/uploads/2020/09/fundacion-panama.jpg" width="300" height="200" alt="Ciudad Serdán" />
     <h2 style="font-family: 'Courier New';">¿Por qué cuidar el medio ambiente?</h2>
     <p>
       Porque el planeta nos da todo: aire, agua y vida. Es nuestra responsabilidad protegerlo.
