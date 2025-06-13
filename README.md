@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Mi comunidad: Ciudad Serdán</title>
